@@ -158,7 +158,7 @@ read more
                     role="button"
                     aria-controls="#picker-editor"
                   >
-                   Start your Blog
+                  Start your Blog
                   </a>
                 </div>
               </div>
